@@ -517,6 +517,11 @@ img {
   margin-block: 1.5rem 1rem;
 }
 
+.practice-projects-title {
+  margin-top: 50px; /* Increase this value to add more space above */
+  margin-bottom: 20px; /* Reduce this value to lessen the space below */
+}
+
 /* Services hover */
 
 /*=============== SKILLS ===============*/
